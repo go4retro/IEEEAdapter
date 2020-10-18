@@ -1,0 +1,8 @@
+Screaming Circuits SMD component position file.
+
+Centroid Data for pc board: "IEEE Adapter_v2.brd" as of: 4/7/2016 9:49 PM
+Measurements are in inches. Comma delimited
+Only surface mount components included
+
+RefDes,Layer,LocationX,LocationY,Rotation
+X1,Top,1.000,0.117,180
