@@ -5,6 +5,10 @@ PET/CBM IEEE edge connector to Centronics 24 adapter
 
 Most likely (though I cannot confirm) the cost of placing a Centronics 24 connector on the PET 2001 motherboard and the unknown adoption of IEEE devices led Commodore to skip the connector and simply bring all signals needed to a .156" 12/24 pin male edge connector on the back of the unit.  Since the peripherals included the proper connector, Commodore then sold a special cable that contained the proper connector on one end and an female edge connector on the other end. PET/CBM owners would then need 1 of these cables at the start of the IEEE chain. Since reproducing this cable is cost prohibitive, this device economically converts from the .156" 12/24 connector the the Centronics-24 connector. The device is strictly passive, though the IFC signals can be switched or jumpered if desired.
 
+## Purchase
+
+The finished unit is available for purchase from [RETRO Innovations](http://store.go4retro.com/ieee-cable-adapter/).
+
 ## License
 
 Copyright (C) 2012-20  RETRO Innovations
